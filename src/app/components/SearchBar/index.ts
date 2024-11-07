@@ -1,1 +1,1 @@
-export * from "./SubscribeBar";
+export * from "./SearchBar";
